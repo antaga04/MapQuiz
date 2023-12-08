@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapQuiz</string>
+    <string name="login">Login</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="register">Registro</string>
+    <string name="click_to_login">Haz click para logearte</string>
+    <string name="click_to_register">Haz click para registrarte</string>
+    <string name="logout">LOGOUT</string>
+</resources>
